@@ -1,5 +1,5 @@
-## The below two functions are used to calculate the inverse of a matrix. If inverse
-## is already calculated, it uses cache to return the inverse. 
+## The below two functions are used to calculate the inverse of a matrix. If inverse is
+## already calculated, it uses cache to return the inverse. 
 
 ## makeCacheMatrix: This function creates a special "matrix" object that can cache its inverse.
 
